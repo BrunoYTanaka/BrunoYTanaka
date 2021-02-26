@@ -21,5 +21,5 @@
 
 [![Github](https://img.shields.io/badge/-Github-41414d?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BrunoYTanaka)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brunoyoichi1@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-y-tanaka-8a8211194/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-y-tanaka/)
 </div>
