@@ -2,7 +2,7 @@
 <h2 style="color:#C2A8F3"> 👋 Hello world! </h2>
 
 <p align="left" color="#C2A8F3">
-     &nbsp Hi, I'm Bruno, a front-end and back-end developer, currently working mainly with ReactJS and NodeJs.
+     &nbsp Hi, I'm Bruno,a fullstack javacript developer, currently working mainly with ReactJS and NodeJs.
 </p>
 
 <h3 align="left" style="color:#C2A8F3">🛠️ Languages and Tools:</h3>
